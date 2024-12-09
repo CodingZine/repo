@@ -1,0 +1,8 @@
+from turtle import *
+print("Merry Christmas, Miss Edwards!")
+for i in range (5):
+    pencolor("red")
+    forward(100)
+    left(72)
+    forward(100)
+    right(144)
